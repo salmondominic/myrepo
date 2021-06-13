@@ -1,1 +1,1 @@
-f
+Test by master for FETCH command
